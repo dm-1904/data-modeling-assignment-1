@@ -1,4 +1,4 @@
-# Data Modeling Assignment
+# Data Modeling
 
 ## Introduction
 
@@ -208,3 +208,7 @@ Now we have a table that represents the relationship between users and dogs! Ove
 3. **Simplicity**: It's much simpler to reason about data that is related to one another in this way because while in javascript we could represent the same data many different ways, in SQL there is only one "correct" way to represent the data. You will often hear this concept called "Single Source of Truth".
 
 _Note: These rules specifically apply to when we model data in SQL, in other databases or systems the rules may work a little different, but don't worry you can be a senior engineer and just be really good at the SQL philosophy for data modeling. In your career you may encounter some different rules, but even when you do this should give you a good foundation for understanding how data modeling works._
+
+## Conclusion
+
+Data modeling is a crucial step in the process of creating an application. It involves defining and structuring the data that will be stored, ensuring that it is organized in a way that supports efficient access and manipulation. By creating a clear and logical data model, developers can ensure that the database will meet the needs of the application and its users.
