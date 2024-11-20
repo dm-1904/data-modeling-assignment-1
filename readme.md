@@ -12,7 +12,7 @@
 
 ## Introduction
 
-Here's an app that Instructor Jon built called [GloomTyper](gloomtyper-2-0.vercel.app). It's just a simple typing test game. Your job is to do your best to model the data for this application (We're not going to tell you what the data is, you have to guess based off how the app works).
+Here's an app that Instructor Jon built called [GloomTyper](https://gloomtyper-2-0.vercel.app). It's just a simple typing test game. Your job is to do your best to model the data for this application (We're not going to tell you what the data is, you have to guess based off how the app works).
 
 So please, click around the app, take a few typing tests, and then come up with your best guess at how the data is modeled in the application.
 
