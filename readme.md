@@ -21,6 +21,8 @@ So please, click around the app, take a few typing tests, and then come up with 
 Please submit the following deliverables:
 
 - [ ] A diagram of the data model you came up with
+  - [ ] Make sure that you use the proper drawing style (Crows Feet to represent many) in order to represent your data
+  - [ ] Make sure to include the column names on the tables that you are drawing
   - Use whatever digital tool you'd like to create it, I really like [excalidraw](https://excalidraw.com/), and VSCode [has a plugin for it](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) so you don't even have to leave your editor
   - If you're looking for an example of a diagram, you can look at the [Example Diagram](example-data-model.excalidraw) file. This is just an example and if you copy it exactly you will definitely not get the correct answer.
 - [ ] Tables that are filled out with the rows and columns that you think are in the database
