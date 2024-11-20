@@ -28,3 +28,4 @@ Please submit the following deliverables:
 - [ ] Tables that are filled out with the rows and columns that you think are in the database
   - These tables do not have be in markdown, but can be
   - [ ] Please remember if you use something like google sheets to make public access visible
+- [ ] Make sure that the column names / table names match between the diagram and the tables document that you are providing
